@@ -157,7 +157,7 @@ const ImmunizationReport = ({ patient, qrcode }) => {
                   </div>
 
                   <div style={styles.rectangulo}>
-                    <Text style={styles.textDesign}>Batch o:</Text>
+                    <Text style={styles.textDesign}>Batch No:</Text>
                   </div>
                 </div>
                 <div>
@@ -196,7 +196,7 @@ const ImmunizationReport = ({ patient, qrcode }) => {
                     </div>
 
                     <div style={styles.rectangulo}>
-                      <Text style={styles.textDesign}>Batch o:</Text>
+                      <Text style={styles.textDesign}>Batch No:</Text>
                     </div>
                   </div>
                   <div>
